@@ -1,0 +1,6 @@
+#sphere {
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    margin-top: 10vh;
+}
