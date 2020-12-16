@@ -1,6 +1,42 @@
+body {
+    background-color: #000;
+    font-family: 'JetBrains Mono', monospace;
+}
+
 #sphere {
     display: grid;
     align-items: center;
     justify-items: center;
     margin-top: 10vh;
+}
+
+#top-container h1 {
+    text-align: center;
+    color: #fff;
+}
+
+span {
+    color: rgb(158, 212, 88);
+}
+
+#bottom-container {
+    display: grid;
+    align-items: center;
+    justify-items: center;
+}
+
+#bottom-container p {
+    color: #fff;
+}
+
+a:link {
+    color: #fff;
+}
+
+a:hover {
+    background-color: rgb(78, 102, 47);
+}
+
+a:visited {
+    color: rgb(158, 212, 88);
 }
